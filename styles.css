@@ -23,4 +23,5 @@ ul {
 li {
   position: relative;
   border: 1px solid black;
+  background-color: white;
 }
